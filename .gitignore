@@ -1,0 +1,9 @@
+# Порождается работой отбора, не код
+.cron.lock
+otbor.db
+otbor.log
+model.json
+otchety/
+*.bak-*
+__pycache__/
+.venv*/
